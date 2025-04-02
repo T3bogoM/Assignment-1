@@ -1,2 +1,20 @@
 # Assignment-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 my github https://github.com/T3bogoM/Assignment-1.git
+https://youtu.be/eLQC6Ca0GQw
+![Screenshot 2025-04-02 185745](https://github.com/user-attachments/assets/3acfaf64-ca7e-46f2-87a0-acea2fba78b4)
+![Screenshot 2025-04-02 185023](https://github.com/user-attachments/assets/236de6bd-d8a4-4746-821b-62bb4ab1a5ba)
+![Screenshot 2025-04-02 185023](https://github.com/user-attachments/assets/9f0d00f0-ffbb-4cd5-8411-ae80890f2138)

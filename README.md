@@ -1,5 +1,5 @@
 # Assignment-1
-
+how the app works is that the user enters a meal time, the app has a text box where the user types a meal time like morning mid-morning snack lunch, afternoon snack, dinner or desert. the user then clicks the submit button, which pushes the app to check what the user entered. if it matches an answer is given if there is no match then an error message is shown the app decides the food meal suggestion as it has if-else statements to check the users input.if the user clicks the clear button the text box is cleared, the meal suggestion disappears
 
 
 
